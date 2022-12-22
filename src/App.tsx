@@ -33,7 +33,7 @@ function App() {
         <div className='container'>
           <a href='/' className='navbar-brand'>
             <img src={logo} alt='logo' style={{ width: '4rem' }} />
-            React and Typescript
+            React and Typescript By Edgard A. P.
           </a>
         </div>
       </nav>
